@@ -12,7 +12,7 @@ We propose a novel semi-supervised dual-regularization method that leverages noi
 2. python main.py  --dataset cifar10 --seed 101 --batch-size=128 --arch resnet32 --method ours
 # Dataset
 Our endoscopic lesion segmentation dataset WCH consisting of 6,420 images of atrophic gastritis and 3,728 images of intestinal metaplasia. The complete dataset can be obtained from the corresponding author upon reasonable request (email: c.luo@uestc.edu.cn).
-The following presents a subset of the data from WCH:
+The following presents a subset of the data from WCH.
 # GA
 ![GA](./GA.png)
 # IM
