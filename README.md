@@ -13,7 +13,7 @@ We propose a novel semi-supervised dual-regularization method that leverages noi
 # Dataset
 Our endoscopic lesion segmentation dataset WCH consisting of 6,420 images of atrophic gastritis and 3,728 images of intestinal metaplasia. The complete dataset can be obtained from the corresponding author upon reasonable request (email: c.luo@uestc.edu.cn).
 The following presents a subset of the data from WCH:
-GA
+# GA
 ![GA](./GA.png)
-IM
+# IM
 ![IM](./IM.png)
